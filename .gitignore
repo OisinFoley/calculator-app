@@ -1,3 +1,7 @@
 SimpleCalculator/bin
 SimpleCalculator/obj
+SimpleCalculator.Test.Unit/bin
+SimpleCalculator.Test.Unit/obj
+TestResults
+packages
 .vs/
